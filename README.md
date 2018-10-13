@@ -1,4 +1,6 @@
-# PanicMonster
+# This project is no longer active :(
+
+## PanicMonster
 ### So it always feels like ten minutes before 12:00am
 
 This is an application that will be completed in a little under 24 hours (or we'll try).
